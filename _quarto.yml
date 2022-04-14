@@ -1,10 +1,14 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
-  title: "kodeks_www"
+  title: "kodeks"
+  favicon: images/android-chrome-384x384.png
   navbar:
     background: primary
+    logo: images/beyaz.png
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Flatly
     css: styles.css
     toc: true
 

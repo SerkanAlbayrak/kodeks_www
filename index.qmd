@@ -1,6 +1,7 @@
 ---
 title: "kodeks_www"
 ---
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 This is a Quarto website.
 
@@ -9,3 +10,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
