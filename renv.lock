@@ -130,10 +130,13 @@
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.38",
+      "Version": "1.38.3",
       "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "10b3dc3c6acb925910edda5d0543b3a2",
+      "Repository": "https://yihui.r-universe.dev",
+      "RemoteUrl": "https://github.com/yihui/knitr",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "fc00199f37f4f3dee797492bfe7b161b41b2c6ec",
+      "Hash": "a0486e8020edb2dcb44a11ca298e36e5",
       "Requirements": [
         "evaluate",
         "highr",

@@ -1,7 +1,6 @@
 ---
-title: "kodeks_www"
+title: "koksiiiggğğGGGĞĞĞĞ"
 ---
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 This is a Quarto website.
 
@@ -11,3 +10,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 1 + 1
 ```
 
+<a href="BLOG/14042022_YKS.qmd"> YKS Post </a>
